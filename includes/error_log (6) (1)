@@ -1,0 +1,536 @@
+[15-Apr-2019 11:45:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 98
+[15-Apr-2019 11:45:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 98
+[29-Apr-2019 20:47:36 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 98
+[29-Apr-2019 20:48:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 98
+[29-Apr-2019 20:48:36 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 98
+[29-Apr-2019 20:48:58 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 98
+[29-Apr-2019 20:49:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 98
+[29-Apr-2019 20:50:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 98
+[02-May-2019 18:46:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 98
+[02-May-2019 18:50:36 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 99
+[02-May-2019 19:51:55 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 99
+[02-May-2019 20:32:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 99
+[03-May-2019 18:45:19 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 99
+[04-May-2019 11:38:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 99
+[05-May-2019 08:49:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 131
+[05-May-2019 08:49:29 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 131
+[05-May-2019 11:20:45 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 131
+[05-May-2019 12:35:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 131
+[05-May-2019 12:35:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 131
+[05-May-2019 12:40:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/amitsl/public_html/includes/Users.php on line 24
+[05-May-2019 13:16:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'amitsl_amitsl_p'@'localhost' to database 'amitsl_progan' in /home/amitsl/public_html/includes/Users.php on line 9
+[05-May-2019 13:16:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/amitsl/public_html/includes/Users.php on line 10
+[05-May-2019 13:16:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'amitsl_amitsl_p'@'localhost' to database 'amitsl_progan' in /home/amitsl/public_html/includes/Users.php on line 9
+[05-May-2019 13:16:50 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/amitsl/public_html/includes/Users.php on line 10
+[05-May-2019 13:16:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'amitsl_amitsl_p'@'localhost' to database 'amitsl_progan' in /home/amitsl/public_html/includes/Users.php on line 9
+[05-May-2019 13:16:53 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/amitsl/public_html/includes/Users.php on line 10
+[05-May-2019 13:16:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'amitsl_amitsl_p'@'localhost' to database 'amitsl_progan' in /home/amitsl/public_html/includes/Users.php on line 9
+[05-May-2019 13:16:54 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/amitsl/public_html/includes/Users.php on line 10
+[05-May-2019 13:16:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'amitsl_amitsl_p'@'localhost' to database 'amitsl_progan' in /home/amitsl/public_html/includes/Users.php on line 9
+[05-May-2019 13:16:55 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/amitsl/public_html/includes/Users.php on line 10
+[05-May-2019 13:16:56 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'amitsl_amitsl_p'@'localhost' to database 'amitsl_progan' in /home/amitsl/public_html/includes/Users.php on line 9
+[05-May-2019 13:16:56 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/amitsl/public_html/includes/Users.php on line 10
+[05-May-2019 13:17:34 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'amitsl_amitsl_p'@'localhost' to database 'amitsl_progan' in /home/amitsl/public_html/includes/Users.php on line 9
+[05-May-2019 13:17:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/amitsl/public_html/includes/Users.php on line 10
+[05-May-2019 13:54:42 UTC] PHP Fatal error:  Call to a member function query() on null in /home/amitsl/public_html/includes/connection.php on line 7
+[05-May-2019 14:13:38 UTC] PHP Fatal error:  Call to a member function query() on null in /home/amitsl/public_html/includes/connection.php on line 7
+[05-May-2019 14:31:18 UTC] PHP Fatal error:  Call to a member function query() on null in /home/amitsl/public_html/includes/connection.php on line 7
+[05-May-2019 14:31:53 UTC] PHP Fatal error:  Call to a member function query() on null in /home/amitsl/public_html/includes/connection.php on line 7
+[05-May-2019 16:18:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'amitsl_amitsl_p'@'localhost' (using password: YES) in /home/amitsl/public_html/includes/Users.php on line 9
+[05-May-2019 16:18:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/amitsl/public_html/includes/Users.php on line 10
+[05-May-2019 16:18:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'amitsl_amitsl_p'@'localhost' (using password: YES) in /home/amitsl/public_html/includes/Users.php on line 9
+[05-May-2019 16:18:52 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/amitsl/public_html/includes/Users.php on line 10
+[08-May-2019 16:36:12 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 131
+[08-May-2019 16:37:32 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 131
+[08-May-2019 16:37:34 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 131
+[08-May-2019 16:37:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 131
+[08-May-2019 16:39:34 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'amitsl_amitsl_p'@'localhost' (using password: YES) in /home/amitsl/public_html/includes/Users.php on line 9
+[08-May-2019 16:39:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/amitsl/public_html/includes/Users.php on line 10
+[08-May-2019 16:41:24 UTC] PHP Fatal error:  Call to a member function query() on null in /home/amitsl/public_html/includes/Users.php on line 26
+[08-May-2019 16:42:04 UTC] PHP Fatal error:  Call to a member function query() on null in /home/amitsl/public_html/includes/Users.php on line 33
+[11-May-2019 10:48:10 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 10:52:11 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 10:52:53 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 10:53:46 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 10:54:06 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 10:54:38 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 10:54:59 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 10:55:01 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 10:55:48 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 10:56:51 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 10:57:26 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 11:00:39 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 11:01:56 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 11:02:20 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 11:04:27 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 11:04:57 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 11:05:37 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 11:06:15 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 11:06:17 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 11:06:39 UTC] PHP Fatal error:  Cannot use [] for reading in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 11:06:50 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 11:09:18 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 11:09:20 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 11:09:22 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 11:09:47 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 11:10:40 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_asoc() in /home/amitsl/public_html/includes/Users.php on line 8
+[11-May-2019 11:17:18 UTC] PHP Parse error:  syntax error, unexpected 'userStatusId' (T_STRING), expecting ',' or ';' in /home/amitsl/public_html/includes/Users.php on line 143
+[11-May-2019 11:19:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/amitsl/public_html/includes/Users.php on line 144
+[11-May-2019 11:22:20 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/Users.php on line 143
+[11-May-2019 11:44:24 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/amitsl/public_html/includes/Users.php on line 5
+[11-May-2019 11:44:36 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/amitsl/public_html/includes/Users.php on line 3
+[11-May-2019 11:44:36 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/amitsl/public_html/includes/Users.php on line 3
+[12-May-2019 16:53:52 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/amitsl/public_html/includes/orderHistory.php on line 139
+[12-May-2019 16:58:56 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/amitsl/public_html/includes/Users.php on line 147
+[13-May-2019 08:32:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/amitsl/public_html/includes/customers.php on line 146
+[13-May-2019 08:47:54 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/amitsl/public_html/includes/customers.php on line 222
+[13-May-2019 08:49:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/customers.php on line 324
+[13-May-2019 11:53:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/amitsl/public_html/includes/customers.php on line 231
+[13-May-2019 13:29:44 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/amitsl/public_html/includes/orderHistory.php on line 135
+[13-May-2019 13:52:25 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/amitsl/public_html/includes/orderHistory.php on line 128
+[13-May-2019 13:52:30 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/amitsl/public_html/includes/orderHistory.php on line 128
+[13-May-2019 14:47:20 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/amitsl/public_html/includes/newOrder.php on line 259
+[13-May-2019 15:18:21 UTC] PHP Parse error:  syntax error, unexpected '"', '"' (T_CONSTANT_ENCAPSED_STRING) in /home/amitsl/public_html/includes/newOrder.php on line 268
+[13-May-2019 15:18:32 UTC] PHP Parse error:  syntax error, unexpected '"', '"' (T_CONSTANT_ENCAPSED_STRING) in /home/amitsl/public_html/includes/newOrder.php on line 268
+[13-May-2019 15:18:35 UTC] PHP Parse error:  syntax error, unexpected '"', '"' (T_CONSTANT_ENCAPSED_STRING) in /home/amitsl/public_html/includes/newOrder.php on line 268
+[13-May-2019 15:19:28 UTC] PHP Parse error:  syntax error, unexpected '"', '"' (T_CONSTANT_ENCAPSED_STRING) in /home/amitsl/public_html/includes/newOrder.php on line 267
+[13-May-2019 15:19:30 UTC] PHP Parse error:  syntax error, unexpected '"', '"' (T_CONSTANT_ENCAPSED_STRING) in /home/amitsl/public_html/includes/newOrder.php on line 267
+[13-May-2019 15:19:32 UTC] PHP Parse error:  syntax error, unexpected '"', '"' (T_CONSTANT_ENCAPSED_STRING) in /home/amitsl/public_html/includes/newOrder.php on line 267
+[13-May-2019 15:19:32 UTC] PHP Parse error:  syntax error, unexpected '"', '"' (T_CONSTANT_ENCAPSED_STRING) in /home/amitsl/public_html/includes/newOrder.php on line 267
+[13-May-2019 15:19:32 UTC] PHP Parse error:  syntax error, unexpected '"', '"' (T_CONSTANT_ENCAPSED_STRING) in /home/amitsl/public_html/includes/newOrder.php on line 267
+[13-May-2019 15:19:32 UTC] PHP Parse error:  syntax error, unexpected '"', '"' (T_CONSTANT_ENCAPSED_STRING) in /home/amitsl/public_html/includes/newOrder.php on line 267
+[13-May-2019 15:19:32 UTC] PHP Parse error:  syntax error, unexpected '"', '"' (T_CONSTANT_ENCAPSED_STRING) in /home/amitsl/public_html/includes/newOrder.php on line 267
+[13-May-2019 16:10:59 UTC] PHP Parse error:  syntax error, unexpected 'ץ' (T_STRING), expecting ',' or ';' in /home/amitsl/public_html/includes/newOrder.php on line 263
+[13-May-2019 16:20:25 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/newOrder.php on line 262
+[13-May-2019 16:30:21 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/newOrder.php on line 262
+[13-May-2019 16:32:26 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/newOrder.php on line 262
+[14-May-2019 19:03:22 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/newOrder.php on line 262
+[18-May-2019 09:31:14 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/amitsl/public_html/includes/newRent.php on line 286
+[19-May-2019 16:40:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/newRepair.php on line 391
+[19-May-2019 16:42:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/newRepair.php on line 394
+[19-May-2019 16:42:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/newRepair.php on line 394
+[19-May-2019 16:45:08 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL) in /home/amitsl/public_html/includes/customers.php on line 202
+[19-May-2019 19:50:12 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL) in /home/amitsl/public_html/includes/customers.php on line 202
+[19-May-2019 19:58:38 UTC] PHP Fatal error:  Class 'User' not found in /home/amitsl/public_html/includes/newRepair.php on line 264
+[19-May-2019 20:00:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/amitsl/public_html/includes/newRepair.php on line 324
+[19-May-2019 20:08:27 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/newOrder.php on line 260
+[21-May-2019 03:26:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/amitsl/public_html/includes/orderHistory.php on line 150
+[21-May-2019 03:52:36 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on string in /home/amitsl/public_html/includes/orderHistory.php on line 164
+[21-May-2019 04:03:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on string in /home/amitsl/public_html/includes/orderHistory.php on line 170
+[21-May-2019 04:07:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/orderHistory.php on line 181
+[21-May-2019 04:09:06 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/orderHistory.php on line 181
+[21-May-2019 04:09:22 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/orderHistory.php on line 181
+[21-May-2019 04:10:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/orderHistory.php on line 181
+[21-May-2019 04:10:47 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/orderHistory.php on line 181
+[21-May-2019 04:10:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/orderHistory.php on line 181
+[21-May-2019 04:11:00 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/orderHistory.php on line 181
+[21-May-2019 04:13:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/orderHistory.php on line 181
+[21-May-2019 04:16:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/orderHistory.php on line 181
+[21-May-2019 04:19:40 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/orderHistory.php on line 173
+[21-May-2019 04:43:53 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/amitsl/public_html/includes/orderHistory.php on line 161
+[21-May-2019 08:31:57 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/amitsl/public_html/includes/newRent.php on line 286
+[21-May-2019 08:32:06 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/amitsl/public_html/includes/newRent.php on line 286
+[21-May-2019 08:33:39 UTC] PHP Fatal error:  Call to a member function get_connection() on null in /home/amitsl/public_html/includes/newRent.php on line 255
+[21-May-2019 08:46:10 UTC] PHP Fatal error:  Call to a member function get_connection() on null in /home/amitsl/public_html/includes/newRent.php on line 255
+[21-May-2019 08:48:43 UTC] PHP Fatal error:  Call to a member function get_connection() on null in /home/amitsl/public_html/includes/newRent.php on line 255
+[21-May-2019 08:49:22 UTC] PHP Fatal error:  Call to a member function get_connection() on null in /home/amitsl/public_html/includes/newRent.php on line 255
+[21-May-2019 12:37:30 UTC] PHP Fatal error:  Call to a member function get_connection() on null in /home/amitsl/public_html/includes/newRent.php on line 255
+[21-May-2019 12:39:45 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL) in /home/amitsl/public_html/includes/customers.php on line 202
+[21-May-2019 12:40:14 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL) in /home/amitsl/public_html/includes/customers.php on line 202
+[21-May-2019 12:43:27 UTC] PHP Fatal error:  Call to a member function get_connection() on null in /home/amitsl/public_html/includes/newRent.php on line 255
+[21-May-2019 12:43:52 UTC] PHP Fatal error:  Call to a member function get_connection() on null in /home/amitsl/public_html/includes/newRent.php on line 255
+[21-May-2019 12:46:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/amitsl/public_html/includes/TreatmentRepairs.php on line 150
+[21-May-2019 12:56:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/amitsl/public_html/includes/TreatmentRepairs.php on line 160
+[21-May-2019 12:56:19 UTC] PHP Fatal error:  Call to a member function get_connection() on null in /home/amitsl/public_html/includes/newRent.php on line 255
+[21-May-2019 14:17:42 UTC] PHP Parse error:  syntax error, unexpected ''.$productName.'' (T_CONSTANT_ENCAPSED_STRING) in /home/amitsl/public_html/includes/newRent.php on line 262
+[21-May-2019 14:23:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/completedRepairs.php on line 285
+[21-May-2019 14:24:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/completedRepairs.php on line 285
+[21-May-2019 14:24:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/completedRepairs.php on line 285
+[21-May-2019 14:54:36 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/newOrder.php on line 260
+[21-May-2019 14:58:48 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/newOrder.php on line 260
+[21-May-2019 15:22:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/amitsl/public_html/includes/openRent.php on line 140
+[21-May-2019 15:22:26 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/amitsl/public_html/includes/openRent.php on line 140
+[21-May-2019 15:44:33 UTC] PHP Parse error:  syntax error, unexpected '"')"' (T_CONSTANT_ENCAPSED_STRING) in /home/amitsl/public_html/includes/newOrder.php on line 273
+[22-May-2019 10:12:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/amitsl/public_html/includes/newOrder.php:230) in /home/amitsl/public_html/php/Order.php on line 2
+[22-May-2019 10:12:08 UTC] PHP Fatal error:  Class 'Order' not found in /home/amitsl/public_html/php/Order.php on line 25
+[22-May-2019 10:12:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/amitsl/public_html/includes/newOrder.php:230) in /home/amitsl/public_html/php/Order.php on line 2
+[22-May-2019 13:51:43 UTC] PHP Fatal error:  Call to undefined function alert() in /home/amitsl/public_html/includes/newOrder1.php on line 170
+[22-May-2019 14:28:28 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/amitsl/public_html/php/Order.php on line 38
+[22-May-2019 14:29:25 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/php/Order.php on line 20
+[22-May-2019 14:30:07 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/php/Order.php on line 20
+[22-May-2019 14:33:12 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/php/Order.php on line 20
+[22-May-2019 15:25:28 UTC] PHP Parse error:  syntax error, unexpected '$newOrderAddQuery' (T_VARIABLE), expecting ',' or ';' in /home/amitsl/public_html/php/Order.php on line 75
+[22-May-2019 15:25:46 UTC] PHP Parse error:  syntax error, unexpected '$newOrderAddQuery' (T_VARIABLE), expecting ',' or ';' in /home/amitsl/public_html/php/Order.php on line 75
+[22-May-2019 15:26:41 UTC] PHP Parse error:  syntax error, unexpected '$newOrderAddQuery' (T_VARIABLE), expecting ',' or ';' in /home/amitsl/public_html/php/Order.php on line 75
+[22-May-2019 19:41:27 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/amitsl/public_html/includes/Tal_test.php on line 237
+[23-May-2019 07:18:39 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/amitsl/public_html/includes/newOrder1.php on line 192
+[23-May-2019 07:31:46 UTC] PHP Parse error:  syntax error, unexpected '' end of param'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/amitsl/public_html/php/Order.php on line 33
+[23-May-2019 08:27:56 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/amitsl/public_html/includes/orderHistory.php on line 197
+[23-May-2019 10:27:01 UTC] PHP Parse error:  syntax error, unexpected '$orderQuery' (T_VARIABLE), expecting ',' or ';' in /home/amitsl/public_html/includes/orderHistory.php on line 151
+[24-May-2019 13:01:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/Tal_test.php on line 138
+[24-May-2019 13:33:36 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/dashboard.php on line 67
+[24-May-2019 14:25:15 UTC] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home/amitsl/public_html/includes/dashboard.php on line 153
+[24-May-2019 16:05:48 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs.php on line 138
+[25-May-2019 11:53:46 UTC] PHP Parse error:  syntax error, unexpected 'far' (T_STRING), expecting ',' or ';' in /home/amitsl/public_html/includes/dashboard.php on line 286
+[25-May-2019 11:54:56 UTC] PHP Parse error:  syntax error, unexpected ''far fa-user'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/amitsl/public_html/includes/dashboard.php on line 286
+[25-May-2019 14:22:22 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs.php on line 138
+[25-May-2019 14:22:55 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs.php on line 138
+[25-May-2019 14:23:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/completedRepairs.php on line 138
+[25-May-2019 14:24:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs.php on line 138
+[25-May-2019 14:24:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/completedRepairs.php on line 138
+[25-May-2019 14:24:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/collectedRepairs.php on line 137
+[25-May-2019 14:26:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/completedRepairs.php on line 138
+[25-May-2019 14:26:21 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/completedRepairs.php on line 138
+[25-May-2019 14:27:20 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/completedRepairs.php on line 138
+[25-May-2019 15:12:33 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/orderHistory.php on line 117
+[25-May-2019 15:13:28 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/includes/orderHistory.php on line 118
+[25-May-2019 15:25:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/completedRepairs.php on line 138
+[25-May-2019 15:25:15 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/completedRepairs.php on line 138
+[25-May-2019 16:57:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/dashboard.php on line 228
+[25-May-2019 17:01:31 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/dashboard.php on line 228
+[25-May-2019 17:02:19 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/dashboard.php on line 228
+[25-May-2019 17:03:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/dashboard.php on line 228
+[25-May-2019 17:06:33 UTC] PHP Parse error:  syntax error, unexpected 'talm22015' (T_STRING) in /home/amitsl/public_html/includes/dashboard.php on line 227
+[25-May-2019 17:06:44 UTC] PHP Parse error:  syntax error, unexpected 'talm22015' (T_STRING) in /home/amitsl/public_html/includes/dashboard.php on line 227
+[25-May-2019 17:06:45 UTC] PHP Parse error:  syntax error, unexpected 'talm22015' (T_STRING) in /home/amitsl/public_html/includes/dashboard.php on line 227
+[25-May-2019 17:07:28 UTC] PHP Parse error:  syntax error, unexpected '$userMail' (T_VARIABLE) in /home/amitsl/public_html/includes/dashboard.php on line 227
+[25-May-2019 17:07:48 UTC] PHP Parse error:  syntax error, unexpected '$userMail' (T_VARIABLE) in /home/amitsl/public_html/includes/dashboard.php on line 227
+[25-May-2019 17:07:50 UTC] PHP Parse error:  syntax error, unexpected '$userMail' (T_VARIABLE) in /home/amitsl/public_html/includes/dashboard.php on line 227
+[25-May-2019 17:07:50 UTC] PHP Parse error:  syntax error, unexpected '$userMail' (T_VARIABLE) in /home/amitsl/public_html/includes/dashboard.php on line 227
+[25-May-2019 17:07:51 UTC] PHP Parse error:  syntax error, unexpected '$userMail' (T_VARIABLE) in /home/amitsl/public_html/includes/dashboard.php on line 227
+[25-May-2019 17:07:51 UTC] PHP Parse error:  syntax error, unexpected '$userMail' (T_VARIABLE) in /home/amitsl/public_html/includes/dashboard.php on line 227
+[25-May-2019 17:22:23 UTC] PHP Parse error:  syntax error, unexpected 'talm22015' (T_STRING) in /home/amitsl/public_html/includes/dashboard.php on line 232
+[25-May-2019 17:26:02 UTC] PHP Parse error:  syntax error, unexpected 'talm22015' (T_STRING) in /home/amitsl/public_html/includes/dashboard.php on line 232
+[25-May-2019 18:04:30 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK), expecting ',' or ';' in /home/amitsl/public_html/includes/dashboard.php on line 235
+[25-May-2019 18:22:39 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/amitsl/public_html/includes/dashboard.php on line 234
+[25-May-2019 18:34:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/dashboard.php on line 528
+[25-May-2019 18:35:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/dashboard.php on line 529
+[25-May-2019 18:35:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/dashboard.php on line 529
+[25-May-2019 19:20:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/dashboard.php on line 534
+[25-May-2019 20:21:48 UTC] PHP Parse error:  syntax error, unexpected '1234' (T_LNUMBER) in /home/amitsl/public_html/includes/dashboard.php on line 264
+[26-May-2019 09:45:46 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 187
+[26-May-2019 09:47:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 187
+[26-May-2019 09:49:19 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 187
+[26-May-2019 09:49:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 187
+[26-May-2019 09:51:46 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 187
+[26-May-2019 09:52:14 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 187
+[26-May-2019 09:52:28 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 187
+[26-May-2019 09:53:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 187
+[26-May-2019 09:55:20 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 187
+[26-May-2019 09:55:47 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 187
+[26-May-2019 09:56:13 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 187
+[26-May-2019 09:57:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 187
+[26-May-2019 09:57:47 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 139
+[26-May-2019 09:58:20 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 187
+[26-May-2019 09:58:49 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 187
+[26-May-2019 10:02:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 153
+[26-May-2019 10:02:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 153
+[26-May-2019 10:02:46 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 153
+[26-May-2019 10:04:10 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 188
+[26-May-2019 10:05:29 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 188
+[26-May-2019 10:15:38 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/completedRepairs.php on line 138
+[26-May-2019 10:47:51 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 163
+[26-May-2019 10:48:44 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 197
+[26-May-2019 10:52:49 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 192
+[26-May-2019 11:16:00 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 154
+[26-May-2019 13:40:40 UTC] PHP Fatal error:  Call to a member function query() on null in /home/amitsl/public_html/php/Repair.php on line 14
+[26-May-2019 13:41:22 UTC] PHP Fatal error:  Call to a member function query() on null in /home/amitsl/public_html/php/Repair.php on line 14
+[26-May-2019 13:41:50 UTC] PHP Fatal error:  Call to undefined function alert() in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 273
+[26-May-2019 13:42:19 UTC] PHP Fatal error:  Call to undefined function alert() in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 273
+[26-May-2019 13:42:39 UTC] PHP Fatal error:  Call to undefined function alert() in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 273
+[26-May-2019 13:58:29 UTC] PHP Parse error:  syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 204
+[26-May-2019 14:26:26 UTC] PHP Parse error:  syntax error, unexpected 'fontSizeModalTable' (T_STRING), expecting ',' or ';' in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 202
+[26-May-2019 14:53:35 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 216
+[26-May-2019 15:18:01 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 225
+[26-May-2019 19:00:48 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/amitsl/public_html/php/Repair.php on line 34
+[26-May-2019 19:03:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/amitsl/public_html/includes/TreatmentRepairs1.php on line 169
+[26-May-2019 19:05:48 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/amitsl/public_html/php/Repair.php on line 33
+[26-May-2019 19:10:49 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/amitsl/public_html/php/Database.php on line 19
+[27-May-2019 09:13:48 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/completedRepairs.php on line 138
+[28-May-2019 08:09:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/completedRepairs.php on line 138
+[28-May-2019 08:11:39 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/completedRepairs.php on line 138
+[28-May-2019 08:31:38 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/completedRepairs.php on line 138
+[28-May-2019 08:32:53 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/collectedRepairs.php on line 137
+[28-May-2019 08:33:27 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/collectedRepairs.php on line 137
+[28-May-2019 08:33:51 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/collectedRepairs.php on line 137
+[28-May-2019 09:26:51 UTC] PHP Fatal error:  Call to a member function addNewRepair() on null in /home/amitsl/public_html/includes/newRent.php on line 207
+[28-May-2019 09:27:24 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/php/Rent.php on line 63
+[28-May-2019 09:27:42 UTC] PHP Fatal error:  Call to a member function checkIfUserExist() on null in /home/amitsl/public_html/php/Rent.php on line 73
+[28-May-2019 09:28:06 UTC] PHP Fatal error:  Call to a member function checkIfUserExist() on null in /home/amitsl/public_html/php/Rent.php on line 73
+[28-May-2019 09:29:15 UTC] PHP Fatal error:  Call to a member function checkIfUserExist() on null in /home/amitsl/public_html/php/Rent.php on line 73
+[28-May-2019 09:29:41 UTC] PHP Fatal error:  Call to a member function checkIfUserExist() on null in /home/amitsl/public_html/php/Rent.php on line 73
+[28-May-2019 09:30:50 UTC] PHP Fatal error:  Call to a member function checkIfUserExist() on null in /home/amitsl/public_html/php/Rent.php on line 73
+[28-May-2019 10:39:49 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 139
+[28-May-2019 10:50:45 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 195
+[28-May-2019 10:52:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 195
+[28-May-2019 10:53:28 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/openRent.php on line 195
+[28-May-2019 16:05:17 UTC] PHP Fatal error:  Call to undefined method Repair::deleteRent() in /home/amitsl/public_html/includes/openRent.php on line 262
+[28-May-2019 16:05:22 UTC] PHP Fatal error:  Call to undefined method Repair::deleteRent() in /home/amitsl/public_html/includes/openRent.php on line 262
+[28-May-2019 16:06:33 UTC] PHP Fatal error:  Call to a member function deleteRent() on null in /home/amitsl/public_html/includes/openRent.php on line 262
+[28-May-2019 16:07:53 UTC] PHP Fatal error:  Call to a member function deleteRent() on null in /home/amitsl/public_html/includes/openRent.php on line 262
+[28-May-2019 16:08:13 UTC] PHP Fatal error:  Call to a member function deleteRent() on null in /home/amitsl/public_html/includes/openRent.php on line 262
+[28-May-2019 16:08:49 UTC] PHP Fatal error:  Call to a member function deleteRent() on null in /home/amitsl/public_html/includes/openRent.php on line 262
+[28-May-2019 16:09:02 UTC] PHP Fatal error:  Call to a member function deleteRent() on null in /home/amitsl/public_html/includes/openRent.php on line 262
+[28-May-2019 16:09:18 UTC] PHP Fatal error:  Call to a member function deleteRent() on null in /home/amitsl/public_html/includes/openRent.php on line 262
+[28-May-2019 16:10:12 UTC] PHP Fatal error:  Call to a member function deleteRent() on null in /home/amitsl/public_html/includes/openRent.php on line 262
+[28-May-2019 16:11:28 UTC] PHP Fatal error:  Call to a member function deleteRent() on null in /home/amitsl/public_html/includes/openRent.php on line 262
+[28-May-2019 16:13:00 UTC] PHP Fatal error:  Call to a member function deleteRent() on null in /home/amitsl/public_html/includes/openRent.php on line 263
+[28-May-2019 16:13:44 UTC] PHP Fatal error:  Call to a member function deleteRent() on null in /home/amitsl/public_html/includes/openRent.php on line 263
+[28-May-2019 16:13:54 UTC] PHP Fatal error:  Call to a member function deleteRent() on null in /home/amitsl/public_html/includes/openRent.php on line 263
+[28-May-2019 16:14:09 UTC] PHP Fatal error:  Call to a member function deleteRent() on null in /home/amitsl/public_html/includes/openRent.php on line 264
+[28-May-2019 16:40:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/rentCompleted.php on line 138
+[28-May-2019 16:49:08 UTC] PHP Parse error:  syntax error, unexpected 'stylesheet' (T_STRING) in /home/amitsl/public_html/includes/dashboard.php on line 22
+[28-May-2019 17:46:51 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/orderHistory.php on line 162
+[28-May-2019 17:48:00 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/orderHistory.php on line 162
+[28-May-2019 17:50:45 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/orderHistory.php on line 163
+[28-May-2019 18:13:35 UTC] PHP Fatal error:  Call to a member function checkIfUserExist() on null in /home/amitsl/public_html/php/Order.php on line 30
+[28-May-2019 18:13:57 UTC] PHP Fatal error:  Call to a member function checkIfUserExist() on null in /home/amitsl/public_html/php/Order.php on line 30
+[28-May-2019 18:15:21 UTC] PHP Fatal error:  Call to a member function checkIfUserExist() on null in /home/amitsl/public_html/php/Order.php on line 31
+[30-May-2019 02:21:54 UTC] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting ',' or ';' in /home/amitsl/public_html/includes/dashboard.php on line 521
+[30-May-2019 02:29:53 UTC] PHP Fatal error:  Call to undefined method User::logout() in /home/amitsl/public_html/includes/dashboard.php on line 524
+[30-May-2019 02:38:35 UTC] PHP Fatal error:  Call to a member function query() on null in /home/amitsl/public_html/includes/connection.php on line 7
+[30-May-2019 02:53:25 UTC] PHP Parse error:  syntax error, unexpected '')">'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/amitsl/public_html/includes/Users.php on line 156
+[30-May-2019 02:53:36 UTC] PHP Parse error:  syntax error, unexpected 'סיסמא' (T_STRING) in /home/amitsl/public_html/includes/Users.php on line 157
+[30-May-2019 12:58:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/Users.php on line 415
+[30-May-2019 13:01:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/Users.php on line 397
+[30-May-2019 13:01:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/Users.php on line 394
+[30-May-2019 13:01:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/Users.php on line 394
+[30-May-2019 13:02:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/Users.php on line 394
+[30-May-2019 13:08:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/Users.php on line 392
+[30-May-2019 16:27:38 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 200
+[30-May-2019 16:28:09 UTC] PHP Fatal error:  Function name must be a string in /home/amitsl/public_html/includes/users1.php on line 130
+[30-May-2019 16:28:43 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 199
+[30-May-2019 16:30:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 193
+[30-May-2019 16:37:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 128
+[30-May-2019 16:37:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 129
+[30-May-2019 16:38:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 191
+[30-May-2019 16:42:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 191
+[30-May-2019 16:44:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 191
+[30-May-2019 16:44:48 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 191
+[30-May-2019 16:54:06 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 195
+[30-May-2019 16:56:14 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 195
+[30-May-2019 17:05:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 195
+[30-May-2019 17:05:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 195
+[30-May-2019 17:06:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 195
+[30-May-2019 17:06:29 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 195
+[30-May-2019 17:07:55 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 195
+[30-May-2019 17:08:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 195
+[30-May-2019 17:09:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/amitsl/public_html/includes/users1.php on line 154
+[30-May-2019 17:11:50 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/amitsl/public_html/php/Database.php on line 19
+[30-May-2019 17:12:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/users1.php on line 436
+[30-May-2019 17:13:00 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 195
+[30-May-2019 17:13:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 195
+[30-May-2019 17:13:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 195
+[30-May-2019 17:13:58 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 196
+[30-May-2019 17:14:20 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 196
+[30-May-2019 17:16:21 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 196
+[30-May-2019 17:19:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 196
+[30-May-2019 17:19:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 195
+[30-May-2019 17:20:34 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 195
+[30-May-2019 17:22:12 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 195
+[30-May-2019 17:24:36 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 195
+[30-May-2019 17:24:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/users1.php on line 195
+[31-May-2019 13:02:22 UTC] PHP Parse error:  syntax error, unexpected ''</th>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/amitsl/public_html/includes/users1.php on line 193
+[31-May-2019 21:17:09 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/php/User.php on line 31
+[31-May-2019 21:17:44 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/php/User.php on line 32
+[01-Jun-2019 14:02:12 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/amitsl/public_html/php/User.php on line 321
+[02-Jun-2019 15:41:14 UTC] PHP Fatal error:  Class 'Client' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 60
+[02-Jun-2019 15:42:06 UTC] PHP Fatal error:  Class 'Client' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 62
+[02-Jun-2019 15:42:09 UTC] PHP Fatal error:  Class 'Client' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 62
+[02-Jun-2019 15:42:15 UTC] PHP Fatal error:  Class 'Client' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 62
+[02-Jun-2019 15:43:41 UTC] PHP Fatal error:  Class 'Client' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 62
+[02-Jun-2019 15:43:49 UTC] PHP Fatal error:  Class 'HttpClient\HttpClient' not found in /home/amitsl/public_html/php/woocommerce/Client.php on line 42
+[02-Jun-2019 15:44:18 UTC] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) in /home/amitsl/public_html/php/woocommerce/Client.php on line 10
+[02-Jun-2019 15:44:29 UTC] PHP Warning:  The use statement with non-compound name 'HttpClient' has no effect in /home/amitsl/public_html/php/woocommerce/Client.php on line 10
+[02-Jun-2019 15:44:29 UTC] PHP Fatal error:  Class 'HttpClient' not found in /home/amitsl/public_html/php/woocommerce/Client.php on line 42
+[02-Jun-2019 15:46:17 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/amitsl/public_html/php/woocommerce/Client.php on line 16
+[02-Jun-2019 15:46:33 UTC] PHP Fatal error:  Class 'Client' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 61
+[02-Jun-2019 15:47:01 UTC] PHP Fatal error:  Class 'Client' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 61
+[02-Jun-2019 15:47:04 UTC] PHP Fatal error:  Class 'Client' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 61
+[02-Jun-2019 15:49:35 UTC] PHP Fatal error:  Class 'Client' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 61
+[02-Jun-2019 15:50:01 UTC] PHP Fatal error:  Class 'Client' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 61
+[02-Jun-2019 15:56:08 UTC] PHP Fatal error:  Class 'Client' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 61
+[02-Jun-2019 15:57:40 UTC] PHP Fatal error:  Class 'Client' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 61
+[02-Jun-2019 16:02:44 UTC] PHP Fatal error:  Class 'HttpClient' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 103
+[02-Jun-2019 16:03:21 UTC] PHP Fatal error:  Class 'HttpClient' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 103
+[02-Jun-2019 16:03:39 UTC] PHP Fatal error:  Class 'Client' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 61
+[02-Jun-2019 16:04:44 UTC] PHP Fatal error:  Class 'Client' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 61
+[02-Jun-2019 16:05:04 UTC] PHP Fatal error:  Class 'Client' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 62
+[02-Jun-2019 16:07:17 UTC] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) in /home/amitsl/public_html/php/woocommerce/Client.php on line 9
+[02-Jun-2019 16:07:31 UTC] PHP Fatal error:  Class 'Client' not found in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 62
+[02-Jun-2019 16:07:45 UTC] PHP Fatal error:  Class 'HttpClient' not found in /home/amitsl/public_html/php/woocommerce/Client.php on line 50
+[02-Jun-2019 16:09:44 UTC] PHP Warning:  require_once(../Client.php): failed to open stream: No such file or directory in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 9
+[02-Jun-2019 16:09:44 UTC] PHP Fatal error:  require_once(): Failed opening required '../Client.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 9
+[02-Jun-2019 16:10:46 UTC] PHP Warning:  require_once(../Client.php): failed to open stream: No such file or directory in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 9
+[02-Jun-2019 16:10:46 UTC] PHP Fatal error:  require_once(): Failed opening required '../Client.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 9
+[02-Jun-2019 16:11:07 UTC] PHP Warning:  require_once(HttpClient/BasicAuth.php): failed to open stream: No such file or directory in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 9
+[02-Jun-2019 16:11:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'HttpClient/BasicAuth.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 9
+[02-Jun-2019 16:11:46 UTC] PHP Warning:  require_once(../Client.php): failed to open stream: No such file or directory in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 15
+[02-Jun-2019 16:11:46 UTC] PHP Fatal error:  require_once(): Failed opening required '../Client.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 15
+[02-Jun-2019 16:11:58 UTC] PHP Fatal error:  Class 'Options' not found in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 95
+[02-Jun-2019 16:12:46 UTC] PHP Catchable fatal error:  Object of class Client could not be converted to string in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 63
+[02-Jun-2019 16:12:48 UTC] PHP Catchable fatal error:  Object of class Client could not be converted to string in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 63
+[02-Jun-2019 16:13:15 UTC] PHP Catchable fatal error:  Object of class Client could not be converted to string in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 62
+[02-Jun-2019 16:16:43 UTC] PHP Fatal error:  Class 'OAuth' not found in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 164
+[02-Jun-2019 18:54:50 UTC] PHP Fatal error:  Class 'OAuth' not found in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 164
+[02-Jun-2019 18:55:58 UTC] PHP Fatal error:  Class 'OAuth' not found in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 164
+[02-Jun-2019 18:56:25 UTC] PHP Fatal error:  Class 'Request' not found in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 242
+[02-Jun-2019 18:57:53 UTC] PHP Fatal error:  Class 'Response' not found in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 299
+[02-Jun-2019 18:58:24 UTC] PHP Fatal error:  Class 'HttpClientException' not found in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 415
+[02-Jun-2019 18:58:59 UTC] PHP Fatal error:  Uncaught exception 'HttpClientException' with message 'cURL Error: Connection timed out after 15001 milliseconds' in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php:415
+Stack trace:
+#0 /home/amitsl/public_html/php/woocommerce/Client.php(89): HttpClient->request('/wp-json/wc/v3/...', 'GET', Array, Array)
+#1 /home/amitsl/public_html/includes/testinAPIWoocom.php(63): Client->get('/wp-json/wc/v3/...')
+#2 {main}
+  thrown in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 415
+[02-Jun-2019 19:03:35 UTC] PHP Fatal error:  Uncaught exception 'HttpClientException' with message 'cURL Error: Connection timed out after 15000 milliseconds' in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php:415
+Stack trace:
+#0 /home/amitsl/public_html/php/woocommerce/Client.php(89): HttpClient->request('products', 'GET', Array, Array)
+#1 /home/amitsl/public_html/includes/testinAPIWoocom.php(63): Client->get('products')
+#2 {main}
+  thrown in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 415
+[02-Jun-2019 19:48:28 UTC] PHP Fatal error:  Call to undefined function now() in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 67
+[02-Jun-2019 19:49:00 UTC] PHP Fatal error:  Call to undefined function gettimestamp() in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 67
+[02-Jun-2019 19:51:03 UTC] PHP Warning:  rawurlencode() expects parameter 1 to be string, object given in /home/amitsl/public_html/php/woocommerce/HttpClient/OAuth.php on line 112
+[02-Jun-2019 19:51:23 UTC] PHP Fatal error:  Uncaught exception 'HttpClientException' with message 'cURL Error: Connection timed out after 20000 milliseconds' in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php:415
+Stack trace:
+#0 /home/amitsl/public_html/php/woocommerce/Client.php(89): HttpClient->request('orders', 'GET', Array, Array)
+#1 /home/amitsl/public_html/includes/testinAPIWoocom.php(73): Client->get('orders')
+#2 {main}
+  thrown in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 415
+[02-Jun-2019 20:06:44 UTC] PHP Warning:  file_get_contents(http://vmedu187.mtacloud.co.il/wp-json/wc/v3/orders/): failed to open stream: Connection timed out in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 76
+[02-Jun-2019 20:14:50 UTC] PHP Warning:  file_get_contents(http://vmedu187.mtacloud.co.il/wp-json/wc/v3/products?oauth_consumer_key=ck_ef79e2e5d63f28bde196ca12cf14c96c965fc84a&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1559506430&amp;oauth_nonce=$nonce&amp;oauth_version=1.0
+      &amp;oauth_signature=A6CuXuuW0bVBXEO9zB4A0Jx+YYs&amp;page=2): failed to open stream: Connection timed out in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 79
+[02-Jun-2019 20:52:39 UTC] PHP Warning:  hash_hmac(): Unknown hashing algorithm:  in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 77
+[02-Jun-2019 20:53:24 UTC] PHP Warning:  hash_hmac(): Unknown hashing algorithm:  in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 77
+[02-Jun-2019 20:57:24 UTC] PHP Warning:  hash_hmac(): Unknown hashing algorithm:  in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 77
+[02-Jun-2019 20:57:31 UTC] PHP Warning:  hash_hmac(): Unknown hashing algorithm:  in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 78
+[02-Jun-2019 20:57:35 UTC] PHP Warning:  hash_hmac(): Unknown hashing algorithm:  in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 78
+[03-Jun-2019 10:36:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/amitsl/public_html/includes/customers.php on line 160
+[03-Jun-2019 10:36:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/customers.php on line 379
+[03-Jun-2019 10:37:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/customers.php on line 379
+[03-Jun-2019 10:37:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amitsl/public_html/includes/customers.php on line 379
+[03-Jun-2019 10:38:11 UTC] PHP Fatal error:  Uncaught exception 'HttpClientException' with message 'cURL Error: Connection timed out after 20001 milliseconds' in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php:415
+Stack trace:
+#0 /home/amitsl/public_html/php/woocommerce/Client.php(89): HttpClient->request('orders', 'GET', Array, Array)
+#1 /home/amitsl/public_html/includes/testinAPIWoocom.php(73): Client->get('orders')
+#2 {main}
+  thrown in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 415
+[03-Jun-2019 10:40:13 UTC] PHP Fatal error:  Uncaught exception 'HttpClientException' with message 'cURL Error: Connection timed out after 20001 milliseconds' in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php:415
+Stack trace:
+#0 /home/amitsl/public_html/php/woocommerce/Client.php(89): HttpClient->request('orders', 'GET', Array, Array)
+#1 /home/amitsl/public_html/includes/testinAPIWoocom.php(73): Client->get('orders')
+#2 {main}
+  thrown in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 415
+[03-Jun-2019 10:42:34 UTC] PHP Fatal error:  Uncaught exception 'HttpClientException' with message 'cURL Error: Connection timed out after 5001 milliseconds' in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php:415
+Stack trace:
+#0 /home/amitsl/public_html/php/woocommerce/Client.php(89): HttpClient->request('orders', 'GET', Array, Array)
+#1 /home/amitsl/public_html/includes/testinAPIWoocom.php(73): Client->get('orders')
+#2 {main}
+  thrown in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 415
+[03-Jun-2019 10:43:50 UTC] PHP Fatal error:  Uncaught exception 'HttpClientException' with message 'cURL Error: Connection timed out after 5001 milliseconds' in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php:415
+Stack trace:
+#0 /home/amitsl/public_html/php/woocommerce/Client.php(89): HttpClient->request('', 'GET', Array, Array)
+#1 /home/amitsl/public_html/includes/testinAPIWoocom.php(73): Client->get('')
+#2 {main}
+  thrown in /home/amitsl/public_html/php/woocommerce/HttpClient/HttpClient.php on line 415
+[03-Jun-2019 11:05:19 UTC] PHP Warning:  file_get_contents(http://vmedu187.mtacloud.co.il/wp-json/wc/v3/orders?consumer_key=ck_ef79e2e5d63f28bde196ca12cf14c96c965fc84a&amp;consumer_secret=cs_eb7cbbc0723b6e21e04962d86a008cde568e13e7): failed to open stream: Connection timed out in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 80
+[03-Jun-2019 14:58:04 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/customers.php on line 167
+[03-Jun-2019 15:09:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/customers.php on line 167
+[03-Jun-2019 15:12:03 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/customers.php on line 167
+[03-Jun-2019 15:14:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/customers.php on line 167
+[03-Jun-2019 15:54:53 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/customers.php on line 173
+[03-Jun-2019 15:55:28 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/amitsl/public_html/includes/customers.php on line 173
+[03-Jun-2019 16:36:54 UTC] PHP Warning:  file_get_contents(http%3A%2F%2Fvmedu187.mtacloud.co.il%2Fwp-json%2Fwc%2Fv3%2Forders%3Fconsumer_key%3Dck_ef79e2e5d63f28bde196ca12cf14c96c965fc84a%26consumer_secret%3Dcs_eb7cbbc0723b6e21e04962d86a008cde568e13e7): failed to open stream: No such file or directory in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 83
+[03-Jun-2019 16:38:30 UTC] PHP Warning:  file_get_contents(http%3A%2F%2Fvmedu187.mtacloud.co.il%2Fwp-json%2Fwc%2Fv3%2Forders%3Fconsumer_key%3Dck_ef79e2e5d63f28bde196ca12cf14c96c965fc84a%26consumer_secret%3Dcs_eb7cbbc0723b6e21e04962d86a008cde568e13e7): failed to open stream: No such file or directory in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 83
+[03-Jun-2019 16:38:37 UTC] PHP Warning:  file_get_contents(http%3A%2F%2Fvmedu187.mtacloud.co.il%2Fwp-json%2Fwc%2Fv3%2Forders%3Fconsumer_key%3Dck_ef79e2e5d63f28bde196ca12cf14c96c965fc84a%26consumer_secret%3Dcs_eb7cbbc0723b6e21e04962d86a008cde568e13e7): failed to open stream: No such file or directory in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 83
+[03-Jun-2019 16:40:06 UTC] PHP Warning:  file_get_contents(http%3A%2F%2Fvmedu187.mtacloud.co.il%2Fwp-json%2Fwc%2Fv3%2Forders%3Fconsumer_key%3Dck_ef79e2e5d63f28bde196ca12cf14c96c965fc84a%26consumer_secret%3Dcs_eb7cbbc0723b6e21e04962d86a008cde568e13e7): failed to open stream: No such file or directory in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 83
+[03-Jun-2019 16:46:09 UTC] PHP Warning:  file_get_contents(http%3A%2F%2Fvmedu187.mtacloud.co.il%2Fwp-json%2Fwc%2Fv3%2Forders%3Fconsumer_key%3Dck_ef79e2e5d63f28bde196ca12cf14c96c965fc84a%26consumer_secret%3Dcs_eb7cbbc0723b6e21e04962d86a008cde568e13e7): failed to open stream: No such file or directory in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 83
+[03-Jun-2019 16:46:44 UTC] PHP Warning:  file_get_contents(http%3A%2F%2Fvmedu187.mtacloud.co.il%2Fwp-json%2Fwc%2Fv3%2Forders%3Fconsumer_key%3Dck_ef79e2e5d63f28bde196ca12cf14c96c965fc84a%26consumer_secret%3Dcs_eb7cbbc0723b6e21e04962d86a008cde568e13e7): failed to open stream: No such file or directory in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 83
+[03-Jun-2019 16:48:34 UTC] PHP Warning:  file_get_contents(http://vmedu187.mtacloud.co.il/wp-json/wc/v3/orders?consumer_key=ck_ef79e2e5d63f28bde196ca12cf14c96c965fc84a&amp;consumer_secret=cs_eb7cbbc0723b6e21e04962d86a008cde568e13e7): failed to open stream: Connection timed out in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 83
+[03-Jun-2019 16:55:55 UTC] PHP Warning:  file_get_contents(http://vmedu187.mtacloud.co.il/wp-json/wc/v3/orders?consumer_key=ck_ef79e2e5d63f28bde196ca12cf14c96c965fc84a&amp;consumer_secret=cs_eb7cbbc0723b6e21e04962d86a008cde568e13e7): failed to open stream: Connection timed out in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 84
+[03-Jun-2019 22:24:03 UTC] PHP Fatal error:  Cannot use [] for reading in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 81
+[03-Jun-2019 22:24:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 82
+[03-Jun-2019 22:25:45 UTC] PHP Fatal error:  Call to undefined function stringify() in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 80
+[03-Jun-2019 22:26:06 UTC] PHP Fatal error:  Call to undefined function stringify() in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 80
+[03-Jun-2019 22:38:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/amitsl/public_html/includes/ProductInventory.php on line 139
+[03-Jun-2019 22:38:30 UTC] PHP Warning:  Illegal string offset 'itemId' in /home/amitsl/public_html/includes/ProductInventory.php on line 140
+[03-Jun-2019 22:38:30 UTC] PHP Warning:  Illegal string offset 'shortDescription' in /home/amitsl/public_html/includes/ProductInventory.php on line 141
+[03-Jun-2019 22:38:30 UTC] PHP Warning:  Illegal string offset 'inventory' in /home/amitsl/public_html/includes/ProductInventory.php on line 142
+[03-Jun-2019 22:38:30 UTC] PHP Warning:  Illegal string offset 'warranty' in /home/amitsl/public_html/includes/ProductInventory.php on line 143
+[03-Jun-2019 22:38:30 UTC] PHP Warning:  Illegal string offset 'salePrice' in /home/amitsl/public_html/includes/ProductInventory.php on line 144
+[03-Jun-2019 22:38:30 UTC] PHP Warning:  Illegal string offset 'regularPrice' in /home/amitsl/public_html/includes/ProductInventory.php on line 145
+[03-Jun-2019 22:38:54 UTC] PHP Warning:  Illegal string offset 'name' in /home/amitsl/public_html/includes/ProductInventory.php on line 139
+[03-Jun-2019 22:38:54 UTC] PHP Warning:  Illegal string offset 'itemId' in /home/amitsl/public_html/includes/ProductInventory.php on line 140
+[03-Jun-2019 22:38:54 UTC] PHP Warning:  Illegal string offset 'shortDescription' in /home/amitsl/public_html/includes/ProductInventory.php on line 141
+[03-Jun-2019 22:38:54 UTC] PHP Warning:  Illegal string offset 'inventory' in /home/amitsl/public_html/includes/ProductInventory.php on line 142
+[03-Jun-2019 22:38:54 UTC] PHP Warning:  Illegal string offset 'warranty' in /home/amitsl/public_html/includes/ProductInventory.php on line 143
+[03-Jun-2019 22:38:54 UTC] PHP Warning:  Illegal string offset 'salePrice' in /home/amitsl/public_html/includes/ProductInventory.php on line 144
+[03-Jun-2019 22:38:54 UTC] PHP Warning:  Illegal string offset 'regularPrice' in /home/amitsl/public_html/includes/ProductInventory.php on line 145
+[03-Jun-2019 22:41:58 UTC] PHP Warning:  Illegal string offset 'name' in /home/amitsl/public_html/includes/ProductInventory.php on line 140
+[03-Jun-2019 22:41:58 UTC] PHP Warning:  Illegal string offset 'itemId' in /home/amitsl/public_html/includes/ProductInventory.php on line 141
+[03-Jun-2019 22:41:58 UTC] PHP Warning:  Illegal string offset 'shortDescription' in /home/amitsl/public_html/includes/ProductInventory.php on line 142
+[03-Jun-2019 22:41:58 UTC] PHP Warning:  Illegal string offset 'inventory' in /home/amitsl/public_html/includes/ProductInventory.php on line 143
+[03-Jun-2019 22:41:58 UTC] PHP Warning:  Illegal string offset 'warranty' in /home/amitsl/public_html/includes/ProductInventory.php on line 144
+[03-Jun-2019 22:41:58 UTC] PHP Warning:  Illegal string offset 'salePrice' in /home/amitsl/public_html/includes/ProductInventory.php on line 145
+[03-Jun-2019 22:41:58 UTC] PHP Warning:  Illegal string offset 'regularPrice' in /home/amitsl/public_html/includes/ProductInventory.php on line 146
+[03-Jun-2019 22:45:08 UTC] PHP Fatal error:  Call to undefined function stringify() in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 84
+[03-Jun-2019 22:45:11 UTC] PHP Fatal error:  Call to undefined function stringify() in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 84
+[03-Jun-2019 22:45:30 UTC] PHP Fatal error:  Call to undefined function stringify() in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 84
+[03-Jun-2019 22:50:02 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 81
+[03-Jun-2019 22:51:14 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 81
+[03-Jun-2019 22:51:56 UTC] PHP Fatal error:  Cannot use [] for reading in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 81
+[03-Jun-2019 22:55:57 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 82
+[03-Jun-2019 22:57:29 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amitsl/public_html/includes/testinAPIWoocom.php on line 82
+[03-Jun-2019 23:58:53 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/amitsl/public_html/includes/ProductInventory.php on line 199
+[04-Jun-2019 14:37:27 UTC] PHP Warning:  Creating default object from empty value in /home/amitsl/public_html/includes/ProductInventory.php on line 318
+[04-Jun-2019 14:37:35 UTC] PHP Warning:  Creating default object from empty value in /home/amitsl/public_html/includes/ProductInventory.php on line 318
+[04-Jun-2019 14:37:52 UTC] PHP Warning:  Creating default object from empty value in /home/amitsl/public_html/includes/ProductInventory.php on line 318
+[04-Jun-2019 14:38:57 UTC] PHP Warning:  Creating default object from empty value in /home/amitsl/public_html/includes/ProductInventory.php on line 318
+[04-Jun-2019 14:40:13 UTC] PHP Warning:  Creating default object from empty value in /home/amitsl/public_html/includes/ProductInventory.php on line 318
+[04-Jun-2019 14:40:23 UTC] PHP Warning:  Creating default object from empty value in /home/amitsl/public_html/includes/ProductInventory.php on line 318
+[04-Jun-2019 14:40:27 UTC] PHP Warning:  Creating default object from empty value in /home/amitsl/public_html/includes/ProductInventory.php on line 318
+[04-Jun-2019 14:40:35 UTC] PHP Warning:  Creating default object from empty value in /home/amitsl/public_html/includes/ProductInventory.php on line 318
+[04-Jun-2019 17:11:10 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/amitsl/public_html/includes/customers.php on line 219
+[04-Jun-2019 21:34:41 UTC] PHP Warning:  require_once(../php/Product.php): failed to open stream: No such file or directory in /home/amitsl/public_html/includes/ProductInventory.php on line 300
+[04-Jun-2019 21:34:41 UTC] PHP Fatal error:  require_once(): Failed opening required '../php/Product.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/amitsl/public_html/includes/ProductInventory.php on line 300
+[04-Jun-2019 21:36:45 UTC] PHP Warning:  require_once(../php/Product.php): failed to open stream: No such file or directory in /home/amitsl/public_html/includes/ProductInventory.php on line 301
+[04-Jun-2019 21:36:45 UTC] PHP Fatal error:  require_once(): Failed opening required '../php/Product.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/amitsl/public_html/includes/ProductInventory.php on line 301
+[04-Jun-2019 21:37:35 UTC] PHP Warning:  require_once(../php/Product.php): failed to open stream: No such file or directory in /home/amitsl/public_html/includes/ProductInventory.php on line 301
+[04-Jun-2019 21:37:35 UTC] PHP Fatal error:  require_once(): Failed opening required '../php/Product.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/amitsl/public_html/includes/ProductInventory.php on line 301
+[04-Jun-2019 21:37:46 UTC] PHP Warning:  require_once(../php/Product.php): failed to open stream: No such file or directory in /home/amitsl/public_html/includes/ProductInventory.php on line 301
+[04-Jun-2019 21:37:46 UTC] PHP Fatal error:  require_once(): Failed opening required '../php/Product.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/amitsl/public_html/includes/ProductInventory.php on line 301
+[04-Jun-2019 21:41:30 UTC] PHP Fatal error:  Call to a member function deleteProductFromWix() on null in /home/amitsl/public_html/includes/ProductInventory.php on line 304
+[04-Jun-2019 21:46:47 UTC] PHP Fatal error:  Call to a member function deleteProductFromWix() on null in /home/amitsl/public_html/includes/ProductInventory.php on line 304
+[04-Jun-2019 21:47:07 UTC] PHP Fatal error:  Call to a member function deleteProductFromWix() on null in /home/amitsl/public_html/includes/ProductInventory.php on line 304
+[04-Jun-2019 21:48:05 UTC] PHP Fatal error:  Call to a member function deleteProductFromWix() on null in /home/amitsl/public_html/includes/ProductInventory.php on line 304
+[04-Jun-2019 21:48:10 UTC] PHP Fatal error:  Call to a member function deleteProductFromWix() on null in /home/amitsl/public_html/includes/ProductInventory.php on line 304
+[04-Jun-2019 21:48:29 UTC] PHP Fatal error:  Call to a member function deleteProductFromWix() on null in /home/amitsl/public_html/includes/ProductInventory.php on line 304
+[04-Jun-2019 23:09:33 UTC] PHP Fatal error:  Call to undefined function curl() in /home/amitsl/public_html/php/Products.php on line 35
+[04-Jun-2019 23:10:45 UTC] PHP Fatal error:  Call to undefined function curl() in /home/amitsl/public_html/php/Products.php on line 61
+[05-Jun-2019 03:53:39 UTC] PHP Parse error:  syntax error, unexpected ''</th>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/amitsl/public_html/includes/customers.php on line 221
+[05-Jun-2019 08:12:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message ' does not exist!' in /home/amitsl/public_html/includes/openRent.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/amitsl/public_html/includes/openRent.php on line 137
+[05-Jun-2019 09:46:10 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message ' does not exist!' in /home/amitsl/public_html/includes/openRent.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/amitsl/public_html/includes/openRent.php on line 137
+[05-Jun-2019 09:46:13 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message ' does not exist!' in /home/amitsl/public_html/includes/openRent.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/amitsl/public_html/includes/openRent.php on line 137
+[05-Jun-2019 10:26:13 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message ' does not exist!' in /home/amitsl/public_html/includes/openRent.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/amitsl/public_html/includes/openRent.php on line 137
+[05-Jun-2019 10:26:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message ' does not exist!' in /home/amitsl/public_html/includes/openRent.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/amitsl/public_html/includes/openRent.php on line 137
+
+------WebKitFormBoundary4Gqybz9oWkYB9c8M
+Content-Disposition: form-data; name="overwrite"
+
+0
